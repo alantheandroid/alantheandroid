@@ -1,4 +1,6 @@
-### Hi there 👋
+![LinkedIn Banner](/assets/Banner%20LinkedIn.png)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **alantheandroid/alantheandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
