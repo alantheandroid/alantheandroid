@@ -1,4 +1,4 @@
-![LinkedIn Banner](/assets/Banner%20LinkedIn.jpg)
+![LinkedIn Banner](/assets/banners/Banner_LinkedIn.jpg)
 
 <!-- ### Hi there 👋 -->
 
