@@ -14,13 +14,13 @@
 
 ---
 
-<!-- // TOP LANGUAGES // -->
+<!-- // GITHUB STATS // -->
 
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img  align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&layout=compact&theme=codeSTACKr"/>
-    </a>
-</div>
+<!-- <img width="50%" align="right" alt="alantheandroid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alantheandroid&show_icons=true&theme=codeSTACKr" /> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="50%" align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&layout=compact&theme=codeSTACKr"/>
+</a>
 
 <!-- // TECH STACK // -->
 
@@ -38,5 +38,3 @@
 - <img height="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js
 - <img height="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> npm
 - <img height="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
-
-<!-- ![alantheandroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=alantheandroid&show_icons=true&theme=codeSTACKr) -->
