@@ -2,17 +2,15 @@
 
 ![LinkedIn Banner](/assets/banners/Banner_LinkedIn.jpg)
 
-# `{ Hello, world! }`
-
 <!-- // ABOUT ME // -->
 
-## Hi, I'm Alessio. Nice to meet you! 👋
+## `{ Hello, world! }`
+
+### I'm Alessio. Nice to meet you! 👋
 
 - 🖥️ I'm a junior web developer and I love tinkering with web apps;
 - 👨‍🎓 I'm always looking for new coding tricks to master;
 - 🤪 I literally use _every_ VSC extension ever.
-
-<br>
 
 ---
 
@@ -33,8 +31,6 @@
 - <img height="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> SCSS/SASS
 - <img height="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
 - <img height="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript
-
-<br>
 
 ### _Tools_
 
