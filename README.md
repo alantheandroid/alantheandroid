@@ -47,7 +47,7 @@
 
 - <img height="24px" style="vertical-align:middle" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /> GitKraken
 
-### _More about me_
+<!-- ### _More about me_
 
 <div id="gr_updates_widget">
 	  <iframe sandbox id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=400&num_updates=5&user=70728087&width=250" width="95%" height="90%" frameborder="0"></iframe>
@@ -55,3 +55,4 @@
         <p><b>GoodReads Updates 📖</b></p>
     </div>
 </div>
+ -->
