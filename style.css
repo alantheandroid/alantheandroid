@@ -1,0 +1,35 @@
+#customize-list {
+  float: left;
+  margin-left: 20px;
+  list-style: none;
+}
+#gr_updates_widget {
+  float: right;
+  border-radius: 24px;
+  background-color: white;
+  border: solid #683205 10px;
+  -webkit-box-shadow: 0px 0px 4px 1px #595959, inset 0px 0px 0px 1px #7d730b;
+  -moz-box-shadow: 0px 0px 4px 1px #595959, inset 0px 0px 0px 1px #7d730b;
+  box-shadow: 0px 0px 4px 1px #595959, inset 0px 0px 0px 1px #7d730b;
+  padding: 15px 0 0px 15px;
+  width: 250px;
+  height: 365px;
+}
+#gr_footer {
+  margin-bottom: 0px;
+  height: 30px;
+}
+#gr_updates_widget p {
+  padding: 0px;
+  margin: 0;
+  font-size: 14px;
+}
+#gr_footer img {
+  width: 100px;
+  float: left;
+}
+
+#gr_footer p {
+  width: 100%;
+  color: black;
+}

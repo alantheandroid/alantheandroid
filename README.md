@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"/>
+
 <!-- ANCHOR Top banner -->
 
 ![LinkedIn Banner](/assets/banners/Banner_LinkedIn.jpg)
@@ -6,11 +8,11 @@
 
 ## `{ Hello, world! }`
 
-### I'm Alessio. Nice to meet you! 👋
+### I'm Alessio, nice to meet you! 👋
 
-- 🖥️ I'm a junior web developer and I love tinkering with web apps;
-- 👨‍🎓 I'm always looking for new coding tricks to master;
-- 🤪 I literally use _every_ VSC extension ever.
+🖥️ I'm a junior web developer and I love tinkering with web apps;<br>
+👨‍🎓 I'm always looking for new coding tricks to master;<br>
+🤪 I literally use _every_ VSC extension ever.
 
 ---
 
@@ -43,5 +45,13 @@
 
 - <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Visual Studio Code
 
-<!-- TODO add GitKraken logo -->
-<!-- - <img height="24px" style="vertical-align:middle" src="https://asset.brandfetch.io/id8KASe1rU/idCZpktwZG.svg"> -->
+- <img height="24px" style="vertical-align:middle" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /> GitKraken
+
+### _More about me_
+
+<div id="gr_updates_widget">
+	  <iframe sandbox id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=400&num_updates=5&user=70728087&width=250" width="95%" height="90%" frameborder="0"></iframe>
+    <div id="gr_footer">
+        <p><b>GoodReads Updates 📖</b></p>
+    </div>
+</div>
