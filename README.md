@@ -8,7 +8,7 @@
 
 ## `{ Hello, world! }`
 
-### I'm Alessio, nice to meet you! 👋
+### I'm Alessio, nice to meet you! <img alt="Waving hand" style="vertical-align:sub" height="24px" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" />
 
 🖥️ I'm a junior web developer and I love tinkering with web apps;<br>
 👨‍🎓 I'm always looking for new coding tricks to master;<br>
