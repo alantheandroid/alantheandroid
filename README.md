@@ -12,6 +12,13 @@
 👨‍🎓 I'm always looking for new coding tricks to master;<br>
 🤪 I literally use _every_ VSC extension ever.
 
+<div align="right">
+    <small>
+        <p>⏳ Installation of <i>Functional Programming™</i>:</p>
+        <code>in progress | ▰▰▰▱▱▱</code>
+    </small>
+</div>
+
 ---
 
 <!-- ANCHOR GitHub Stats -->
