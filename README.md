@@ -36,8 +36,14 @@
 <!-- ANCHOR Tech stack -->
 
 <div>
-<h3><i>Languages</i></h3>
     <table>
+        <thead>
+            <tr>
+                <th colspan="2">
+                    <center><big><i>Languages</i></big></center>
+                </th>
+            </tr>
+        </thead>
         <tr>
             <td>
                 <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></sub>
@@ -82,8 +88,14 @@
 </div>
 
 <div>    
-<h3><i>Tools</i></h3>
     <table>
+        <thead>
+            <tr>
+                <th colspan="2">
+                    <center><big><i>Tools</i></big></center>
+                </th>
+            </tr>
+        </thead>
         <tr>
             <td>
                 <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></sub>
@@ -120,8 +132,14 @@
 </div>
 
 <div>    
-<h3><i>Other</i></h3>
     <table>
+        <thead>
+            <tr>
+                <th colspan="2">
+                    <center><big><i>Other</i></big></center>
+                </th>
+            </tr>
+        </thead>
         <tr>
             <td>
                 <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></sub>
