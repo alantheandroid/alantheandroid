@@ -4,18 +4,25 @@
 
 <!-- ANCHOR About me -->
 
-## `{ Hello, world! }`
+<h2 align="center"><code>{ Hello, World! }</code></h2>
 
 ### I'm Alessio, nice to meet you! 👋
 
-🖥️ I'm a junior web developer and I love tinkering with web apps;<br>
-👨‍🎓 I'm always looking for new coding tricks to master;<br>
-🤪 I literally use _every_ VSC extension ever.
+<fieldset>
+<legend><small>{ <samp>user_description.txt</samp> }</small></legend>
+    <p>🖥️ I'm a junior web developer and I love tinkering with web apps;</p>
+    <p>👨‍🎓 I'm always looking for new coding tricks to master;</p>
+    <p>🤪 I literally use <em>every</em> VSC extension ever.</p>
+</fieldset>
+
+<br>
 
 <div align="right">
     <small>
-        <p>⏳ Installation of <i>Functional Programming™</i>:</p>
-        <code>in progress | ▰▰▰▱▱▱</code>
+        <details>
+            <summary>⏳ Installing in <samp>C:\user\brain</samp> :</summary>
+            <i>Functional programming</i> | <progress></progress>
+        </details>
     </small>
 </div>
 
