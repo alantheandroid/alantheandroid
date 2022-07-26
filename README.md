@@ -38,26 +38,111 @@
 
 <!-- ANCHOR Tech stack -->
 
-### _Languages_
+<div>
+<h3><i>Languages</i></h3>
+    <table>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></sub>
+            </td>
+            <td>
+                HTML
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></sub>
+            </td>
+            <td>
+                CSS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></sub>
+            </td>
+            <td>
+                SASS/SCSS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></sub>
+            </td>
+            <td>
+                JavaScript
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></sub>
+            </td>
+            <td>
+                TypeScript
+            </td>
+        </tr>
+    </table>
+</div>
 
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> SCSS/SASS
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript
+<div>    
+<h3><i>Tools</i></h3>
+    <table>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></sub>
+            </td>
+            <td>
+                React
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></sub>
+            </td>
+            <td>
+                Node.js
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></sub>
+            </td>
+            <td>
+                npm
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></sub>
+            </td>
+            <td>
+                Git
+            </td>
+        </tr>
+    </table>
+</div>
 
-### _Tools_
-
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> npm
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
-
-### _Others_
-
-- <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Visual Studio Code
-
-- <img height="24px" style="vertical-align:middle" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /> GitKraken
+<div>    
+<h3><i>Other</i></h3>
+    <table>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></sub>
+            </td>
+            <td>
+                Visual Studio Code
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <sub><img height="24px" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /></sub>
+            </td>
+            <td>
+                GitKraken
+            </td>
+        </tr>
+    </table>
+</div>
 
 <!-- ### _More about me_
 
