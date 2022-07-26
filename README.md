@@ -6,22 +6,19 @@
 
 <h2 align="center"><code>{ Hello, World! }</code></h2>
 
-### I'm Alessio, nice to meet you! 👋
+<center><h3>I'm Alessio, nice to meet you! 👋</h3></center>
 
-<fieldset>
-<legend><small>{ <samp>user_description.txt</samp> }</small></legend>
+<blockquote>
     <p>🖥️ I'm a junior web developer and I love tinkering with web apps;</p>
     <p>👨‍🎓 I'm always looking for new coding tricks to master;</p>
     <p>🤪 I literally use <em>every</em> VSC extension ever.</p>
-</fieldset>
-
-<br>
+</blockquote>
 
 <div align="right">
     <small>
         <details>
-            <summary>⏳ Installing in <samp>C:\user\brain</samp> :</summary>
-            <i>Functional programming</i> | <progress></progress>
+        <summary>⏳ Installing in <samp>C:\user\brain</samp> ...</summary>
+        <code><i>Functional programming</i> | ▰▰▰▱▱▱</code>
         </details>
     </small>
 </div>
