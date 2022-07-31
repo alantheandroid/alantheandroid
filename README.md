@@ -18,7 +18,24 @@
     <small>
         <details>
         <summary>⏳ Installing in <samp>C:\user\brain</samp> ...</summary>
-        <code><i>Functional programming</i> | ▰▰▰▱▱▱</code>
+        <table>
+            <tr>
+                <td>
+                    <i>MERN stack</i>
+                </td>
+                <td>
+                    ▰▰▱▱▱
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <i>Functional programming</i>
+                </td>
+                <td>
+                    ▰▰▰▱▱
+                </td>
+            </tr>
+        </table>
         </details>
     </small>
 </div>
