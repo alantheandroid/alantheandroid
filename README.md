@@ -42,31 +42,41 @@
 
 ---
 
-<!-- ANCHOR GitHub Stats -->
-
-<!-- <img width="50%" align="right" alt="alantheandroid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alantheandroid&show_icons=true&theme=codeSTACKr" /> -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&langs_count=10&layout=compact&theme=codeSTACKr"/>
-</a>
-
 <!-- ANCHOR Tech stack -->
 
-<div>
-    <table>
-        <thead>
-            <tr>
-                <th colspan="2">
-                    <center><big><i>Languages</i></big></center>
-                </th>
-            </tr>
-        </thead>
+<table align=center>
+    <thead>
+        <tr>
+            <th colspan="2">
+                <center><big><i>Languages</i></big></center>
+            </th>
+            <th colspan="2">
+                <center><big><i>Tools</i></big></center>
+            </th>
+            <th colspan="2">
+                <center><big><i>Other</i></big></center>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <td>
                 <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></sub>
             </td>
             <td>
                 HTML
+            </td>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></sub>
+            </td>
+            <td>
+                React
+            </td>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></sub>
+            </td>
+            <td>
+                Visual Studio Code
             </td>
         </tr>
         <tr>
@@ -76,6 +86,18 @@
             <td>
                 CSS
             </td>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></sub>
+            </td>
+            <td>
+                Node.js
+            </td>
+            <td>
+                <sub><img height="24px" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /></sub>
+            </td>
+            <td>
+                GitKraken
+            </td>
         </tr>
         <tr>
             <td>
@@ -84,6 +106,18 @@
             <td>
                 SASS/SCSS
             </td>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></sub>
+            </td>
+            <td>
+                npm
+            </td>
+            <td>
+                <sub><img height="24px" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" /></sub>
+            </td>
+            <td>
+                Postman
+            </td>
         </tr>
         <tr>
             <td>
@@ -91,6 +125,12 @@
             </td>
             <td>
                 JavaScript
+            </td>
+            <td>
+                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></sub>
+            </td>
+            <td>
+                Git
             </td>
         </tr>
         <tr>
@@ -101,80 +141,16 @@
                 TypeScript
             </td>
         </tr>
-    </table>
-</div>
+    </tbody>
+</table>
 
-<div>
-    <table>
-        <thead>
-            <tr>
-                <th colspan="2">
-                    <center><big><i>Tools</i></big></center>
-                </th>
-            </tr>
-        </thead>
-        <tr>
-            <td>
-                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></sub>
-            </td>
-            <td>
-                React
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></sub>
-            </td>
-            <td>
-                Node.js
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></sub>
-            </td>
-            <td>
-                npm
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></sub>
-            </td>
-            <td>
-                Git
-            </td>
-        </tr>
-    </table>
-</div>
+<!-- ANCHOR GitHub Stats -->
 
-<div>
-    <table>
-        <thead>
-            <tr>
-                <th colspan="2">
-                    <center><big><i>Other</i></big></center>
-                </th>
-            </tr>
-        </thead>
-        <tr>
-            <td>
-                <sub><img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></sub>
-            </td>
-            <td>
-                Visual Studio Code
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <sub><img height="24px" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /></sub>
-            </td>
-            <td>
-                GitKraken
-            </td>
-        </tr>
-    </table>
-</div>
+<!-- <img width="50%" align="right" alt="alantheandroid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alantheandroid&show_icons=true&theme=codeSTACKr" /> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="50%" align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&langs_count=10&layout=compact&theme=codeSTACKr"/>
+</a>
 
 <!-- ### _More about me_
 
