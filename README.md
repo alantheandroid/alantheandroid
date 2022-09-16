@@ -24,7 +24,7 @@
                     <i>MERN stack</i>
                 </td>
                 <td>
-                    ▰▰▱▱▱
+                    ▰▰▰▱▱
                 </td>
             </tr>
             <tr>
@@ -47,7 +47,7 @@
 <!-- <img width="50%" align="right" alt="alantheandroid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alantheandroid&show_icons=true&theme=codeSTACKr" /> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&layout=compact&theme=codeSTACKr"/>
+    <img width="50%" align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&langs_count=10&layout=compact&theme=codeSTACKr"/>
 </a>
 
 <!-- ANCHOR Tech stack -->
@@ -104,7 +104,7 @@
     </table>
 </div>
 
-<div>    
+<div>
     <table>
         <thead>
             <tr>
@@ -148,7 +148,7 @@
     </table>
 </div>
 
-<div>    
+<div>
     <table>
         <thead>
             <tr>
