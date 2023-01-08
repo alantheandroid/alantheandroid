@@ -11,6 +11,7 @@
 <blockquote>
     <p>🖥️ I'm a junior web developer and I love tinkering with web apps;</p>
     <p>👨‍🎓 I'm always looking for new coding tricks to master;</p>
+    <p>🍪 Websites use cookies to improve performance and, to be honest, so do I;</p>
     <p>🤪 I literally use <em>every</em> VSC extension ever.</p>
 </blockquote>
 
