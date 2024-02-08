@@ -16,14 +16,6 @@
 
 ---
 
-<!-- ANCHOR GitHub Stats -->
-
-<!-- <img width="50%" align="right" alt="alantheandroid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alantheandroid&show_icons=true&theme=codeSTACKr" /> -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" align="right" alt="alantheandroid's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantheandroid&layout=compact&theme=codeSTACKr"/>
-</a>
-
 <!-- ANCHOR Tech stack -->
 
 ### _Languages_
@@ -46,13 +38,3 @@
 - <img height="24px" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Visual Studio Code
 
 - <img height="24px" style="vertical-align:middle" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-512x446-ha22tv8l.png" /> GitKraken
-
-<!-- ### _More about me_
-
-<div id="gr_updates_widget">
-	  <iframe sandbox id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=400&num_updates=5&user=70728087&width=250" width="95%" height="90%" frameborder="0"></iframe>
-    <div id="gr_footer">
-        <p><b>GoodReads Updates 📖</b></p>
-    </div>
-</div>
- -->
